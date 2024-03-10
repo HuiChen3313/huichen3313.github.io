@@ -28,6 +28,6 @@ services:
     role: Leading Guest Editor
     journal: y
   
-  - title: "IEEE Transaction Knowledge and Data Engineering 2023"
+  - title: "IEEE Transactions on Cybernetics 2024"
     role: Reviewer
     journal: y
