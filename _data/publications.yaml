@@ -87,6 +87,11 @@ papers:
   #   venue: "Proceedings of ELM-2015 Volume 2 (2016): 423."
   #   paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-28373-9_36"
 
+  - title: "Bayesian Federated Learning: A Survey"
+    authors: "Longbing Cao, Hui Chen, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar"
+    venue: "32nd International Joint Conference on Artificial Intelligence, IJCAI 2023."
+    paper_pdf: "https://www.ijcai.org/proceedings/2023/0851.pdf"
+
   
 
     
