@@ -86,7 +86,7 @@ title: Home
 
     <!-- Conferences PAPERS -->
     <div class="tab-pane" id="papers-Conferences">
-      {% assign kt_papers = site.data.publications.papers | where: "Conferences", "y" %}
+      {% assign Conferences_papers = site.data.publications.papers | where: "Conferences", "y" %}
       {% for paper in Conferences_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
@@ -117,7 +117,7 @@ title: Home
 
     <!-- Journals PAPERS -->
     <div class="tab-pane" id="papers-Journals">
-      {% assign gnn_papers = site.data.publications.papers | where: "Journals", "y" %}
+      {% assign Journals_papers = site.data.publications.papers | where: "Journals", "y" %}
       {% for paper in Journals_papers %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b>
