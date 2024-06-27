@@ -4,6 +4,10 @@ services:
     role: Reviewer
     journal: y
     
-  - title: "DSAA 2024"
+  - title: "The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)"
+    role: PC Member
+    conference: y
+
+  - title: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD 2025)"
     role: PC Member
     conference: y
