@@ -3,3 +3,7 @@ services:
   - title: "IEEE Transactions on Cybernetics 2024"
     role: Reviewer
     journal: y
+    
+  - title: "DSAA 2024"
+    role: PC Member
+    conference: y
