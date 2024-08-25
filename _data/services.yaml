@@ -11,3 +11,7 @@ services:
   - title: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD 2025)"
     role: PC Member
     conference: y
+
+  - title: "The Thirteenth International Conference on Learning Representations （ICLR2025）"
+    role: PC Member
+    conference: y
