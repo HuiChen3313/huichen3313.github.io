@@ -3,8 +3,8 @@ services:
   - title: "IEEE Transactions on Cybernetics 2024"
     role: Reviewer
     journal: y
-    
-  - title: "The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)"
+
+  - title: "International Joint Conference on Artificial Intelligence (IJCAI 2025)"
     role: PC Member
     conference: y
 
@@ -20,6 +20,6 @@ services:
     role: PC Member
     conference: y
 
-  - title: "International Joint Conference on Artificial Intelligence (IJCAI 2025)"
+  - title: "The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)"
     role: PC Member
     conference: y
