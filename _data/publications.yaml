@@ -88,35 +88,35 @@ papers:
   #   paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-28373-9_36"
 
   - title: "Bayesian Federated Learning: A Survey"
-    authors: "Longbing Cao, Hui Chen, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar"
+    authors: "Longbing Cao, <b>Hui Chen</b>, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar"
     venue: "32nd International Joint Conference on Artificial Intelligence, IJCAI 2023."
     paper_pdf: "https://www.ijcai.org/proceedings/2023/0851.pdf"
     selected: y
     Conferences: y
 
   - title: "A whale optimization algorithm with chaos mechanism based on quasi-opposition for global optimization problems"
-    authors: "Hui Chen, Weide Li, Xuan Yang"
+    authors: "<b>Hui Chen</b>, Weide Li, Xuan Yang"
     venue: "Expert Systems with Applications, 2020."
     paper_pdf: "https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417420X00121/1-s2.0-S095741742030436X/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDzj8MZHKKizhpgXYvp%2F36bKsjY0zBJYeEgruypEm65swIgDfRghv3TG2aUQV%2BfoQOl5GdW4yq0Axe4N%2BFYiPKBqlUqvAUItf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDLuHQ9NySFSq6PxH6CqQBVtOXrSVPuEN6VOvJljqQVOnOxp0D65s2C%2BXT14%2FjIXxAsFx0DwCv6Uj3D6C4H8dGK%2ByWPgKGGyqEgLuwgkHCaNFUkVuj6H%2Bdy25cC7Cbul14e0wHCx74Vj7Y1pDgxcXUhuXuO9t%2B%2F1uKm%2Fmt6BoFlYEr8RGdiY5PLBCy%2B3UihAI0RoPhEq54kuNChCAajOvYVtOAxEc1KQmxdum4alj2RO7kxNZjx5ASyruk4g0Lve5%2FNZQ3Qqxoo6NzLd1STAC8iS%2BT4%2BZk3SsKi5xI0jgy6eca8OyvCTzKEuvAE0U8uKjyQhxUlc1uLiR%2Bd%2BVhkm2dj6uinZAwZpczoMPiYN2DH0X%2FkGXnNk7fo2jwIen7GsvnXGeoIcFStz%2FSia%2BxnzX4lKR9MGTRD2coxlPDGKTA6gjBISCOzA3KHerOMir0rzzM63%2BesUDeQHlP6HRbygmIIpA1tEWe87pr7eHY%2BrUJNERNbYbmwJO7CW9hRFnKRXGxh%2FixHvOWVGF9Asl3h3wjSNIVj0SYY9t5ERrgQkAy56UBJjoHabMvDDMqOA3gHRdU1HZnX8%2Bh1p5rM6cx6ltOj69WIh8HCJPtn5HYHof3YLC8yLvcu161oJ04CjvQVrPv4tnX9HZS37arv4Z7HGG9t%2Bzw44M8U4L5QpNnfw3TGE5Jd4tJzh52X2VBQmOx8swNP6u8KMp3suG1Ul9jz%2BgHSJbKQPrNlOP7DHaiHqoN4TKP8luvUC9fzusJ9tRcTLHVbKGXQZhTSPAEvh9siUTcDDABWuCuMpkgiCPnLFIfsLgjlQXg0Rfmbw2YQJT2EyjQ3TOKQnO4BYxO0bi%2FYd%2FqQAjXD%2Fe2Ocuv08IdDHeIX%2BGhOINcxPPeUz2ZhUpJUQ4MKyMw7AGOrEBN4siyLxwau0Wlmn6MxKXDiE1Vf0PZ7MBox6LTzwUFbb%2BYjH00hS2OoLWE4FAqY8tQWUxzBnvNqhRucubcZjST%2Bn5dt%2Bw68F6yJuqhOSUiU7fH6iMKM2VtUPWk79nh9wEkrcHknsMY%2FzEN7%2BaZwhOpaOCOk7zMfVxYg1VkvLSUemPag1tLWcKJw0y6P7ra5rjYicmVpngeRmqI8aZ2dBl7fmekvkz84k71PLW%2BqMwyPux&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240406T044330Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6ZCTQNEE%2F20240406%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=cb5824985abde489118af966e78e5fbf4074693bb567ac0fbbc11f4038f9d1a2&hash=c03885933967c895bae55c90e9a2cc05d04f4b8cac3b5d4557f4777540a99c62&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S095741742030436X&tid=spdf-8721f315-8fd6-42a1-a91f-98f3be251371&sid=4d53baf83aec7849e778f796bea1b02841aagxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0713585707075e0b5453&rr=86ff1e074d295d18&cc=au"
     selected: y
     Journals: y
 
   - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
-    authors: "Hui Chen, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
+    authors: "<b>Hui Chen</b>, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
     venue: "IEEE Transactions on Neural Networks and Learning Systems, 2025."
     paper_pdf: "https://arxiv.org/abs/2404.15657"
     selected: y
     Journals: y
 
   - title: "Federated Neural Nonparametric Point Processes"
-    authors: "Hui Chen, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
+    authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
     venue: "Submitted to Artificial Intelligence."
     paper_pdf: "https://arxiv.org/abs/2410.05637"
     selected: y
     Journals: y
 
   - title: "Marked Temporal Bayesian Flow Point Processes"
-    authors: "Hui Chen, Xuhui Fan, Hengyu Liu, Longbing Cao"
+    authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Longbing Cao"
     venue: "Submitted to IEEE Transactions on Cybernetics."
     paper_pdf: "https://arxiv.org/abs/2410.19512"
     selected: y
