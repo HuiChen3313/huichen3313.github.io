@@ -107,6 +107,28 @@ papers:
     paper_pdf: "https://arxiv.org/abs/2404.15657"
     selected: y
     Journals: y
+
+    - title: "Federated Neural Nonparametric Point Processes"
+    authors: "Hui Chen, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
+    venue: "Submitted to Artificial Intelligence."
+    paper_pdf: "https://arxiv.org/abs/2410.05637"
+    selected: y
+    Journals: y
+
+    - title: "Marked Temporal Bayesian Flow Point Processes"
+    authors: "Hui Chen, Xuhui Fan, Hengyu Liu, Longbing Cao"
+    venue: "Submitted to IEEE Transactions on Cybernetics."
+    paper_pdf: "https://arxiv.org/abs/2410.19512"
+    selected: y
+    Journals: y
+
+    - title: "Bayesian personalized federated learning with shared and personalized uncertainty representations"
+    authors: "Hui Chen, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
+    venue: "Submitted to Machine Learning."
+    paper_pdf: "https://arxiv.org/abs/2309.15499"
+    selected: y
+    Journals: y
+
   
 
     
