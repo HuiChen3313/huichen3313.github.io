@@ -123,7 +123,7 @@ papers:
     Journals: y
 
   - title: "Bayesian personalized federated learning with shared and personalized uncertainty representations"
-    authors: "Hui Chen, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
+    authors: "<b>Hui Chen</b>, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
     venue: "Submitted to Machine Learning."
     paper_pdf: "https://arxiv.org/abs/2309.15499"
     selected: y
