@@ -105,7 +105,7 @@ papers:
     authors: "Hui Chen, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
     venue: "IEEE Transactions on Neural Networks and Learning Systems, 2025."
     paper_pdf: "https://arxiv.org/abs/2404.15657"
-    selected: 
+    selected: y
     Journals: y
   
 
