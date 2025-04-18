@@ -28,7 +28,6 @@ services:
     role: PC Member
     conference: y
 
-
   - title: "The Pacific-Asia Conference on Knowledge Discovery and Data Mining （PAKDD 2025）"
     role: PC Member
     conference: y
