@@ -8,11 +8,7 @@ services:
     role: Reviewer
     journal: y
 
-  - title: "Journal of Biomedical and Health Informatics, 2025"
-    role: Reviewer
-    journal: y
-
-    - title: "Data Mining and Knowledge Discovery, 2025"
+  - title: "Data Mining and Knowledge Discovery, 2025"
     role: Reviewer
     journal: y
 
