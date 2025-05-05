@@ -24,6 +24,10 @@ services:
     role: PC Member
     conference: y
 
+  - title: "The 17th Asian Conference on Machine Learning (ACML 2025)"
+    role: PC Member
+    conference: y
+
   - title: "European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD 2025)"
     role: PC Member
     conference: y
