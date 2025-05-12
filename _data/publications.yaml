@@ -104,7 +104,7 @@ papers:
   - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
     authors: "<b>Hui Chen</b>, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
     venue: "IEEE Transactions on Neural Networks and Learning Systems, 2025."
-    paper_pdf: "https://arxiv.org/abs/2404.15657"
+    paper_pdf: "https://doi.org/10.1109/TNNLS.2025.3562164"
     selected: y
     Journals: y
 
