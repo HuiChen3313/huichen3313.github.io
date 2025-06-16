@@ -1,18 +1,18 @@
 services:
 
-  - title: "IEEE Transactions on Cybernetics, 2024"
+  - title: "IEEE Transactions on Cybernetics"
     role: Reviewer
     journal: y
 
-  - title: "Machine Learning, 2025"
+  - title: "Machine Learning"
     role: Reviewer
     journal: y
 
-  - title: "IEEE Journal of Biomedical and Health Informatics, 2025"
+  - title: "IEEE Journal of Biomedical and Health Informatics"
     role: Reviewer
     journal: y
     
-  - title: "Data Mining and Knowledge Discovery, 2025"
+  - title: "Data Mining and Knowledge Discovery"
     role: Reviewer
     journal: y
 
