@@ -16,6 +16,10 @@ services:
     role: Reviewer
     journal: y
 
+  - title: "The Pacific-Asia Conference on Knowledge Discovery and Data Mining （PAKDD 2025）"
+    role: Session Chair
+    conference: y
+
   - title: "The Thirty-ninth Annual Conference on Neural Information Processing Systems（NeurIPS 2025）"
     role: PC Member
     conference: y
@@ -36,9 +40,6 @@ services:
     role: PC Member
     conference: y
 
-  - title: "The Pacific-Asia Conference on Knowledge Discovery and Data Mining （PAKDD 2025）"
-    role: Session Chair
-    conference: y
 
   - title: "The 11th IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)"
     role: PC Member
