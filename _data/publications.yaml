@@ -140,7 +140,7 @@ papers:
     authors: "Xianxun Zhu, Zhaozhao Liu, Erik Cambria, Xiaohan Yu, Xuhui Fan, <b>Hui Chen</b>, Rui Wang"
     venue: "Computer Methods and Programs in Biomedicine."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0169260724005571"
-    selected: 
+    selected: y
     Journals: y
 
   
