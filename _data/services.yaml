@@ -8,6 +8,10 @@ services:
     role: Reviewer
     journal: y
 
+  - title: "Transactions on Machine Learning Research"
+    role: Reviewer
+    journal: y
+
   - title: "IEEE Journal of Biomedical and Health Informatics"
     role: Reviewer
     journal: y
