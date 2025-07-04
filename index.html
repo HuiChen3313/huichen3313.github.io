@@ -250,21 +250,22 @@ title: Home
 
   <div class="tab-content">
 
-    <!-- Conferences -->
-    <div class="tab-pane active" id="services-conferences">
-      {% assign conferences = site.data.services.services | where: "conference", "y" %}
-      {% for paper in conferences %}
+
+    <!-- Journal -->
+    <div class="tab-pane" id="services-journal">
+      {% assign journals = site.data.services.services | where: "journal", "y" %}
+      {% for paper in journals %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p><i>{{ paper.role }}</i></p>
         </div>
       {% endfor %}
     </div>
-
-    <!-- Journal -->
-    <div class="tab-pane" id="services-journal">
-      {% assign journals = site.data.services.services | where: "journal", "y" %}
-      {% for paper in journals %}
+    
+    <!-- Conferences -->
+    <div class="tab-pane active" id="services-conferences">
+      {% assign conferences = site.data.services.services | where: "conference", "y" %}
+      {% for paper in conferences %}
         <div class="paper">
           <p class="title"><b>{{ paper.title }}</b></p>
           <p><i>{{ paper.role }}</i></p>
