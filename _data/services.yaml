@@ -1,9 +1,13 @@
 services:
 
-  - title: "IEEE Transactions on Cybernetics"
+  - title: "npj Digital Medicine"
     role: Reviewer
     journal: y
 
+  - title: "IEEE Transactions on Cybernetics"
+    role: Reviewer
+    journal: y
+    
   - title: "Machine Learning"
     role: Reviewer
     journal: y
