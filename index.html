@@ -252,7 +252,7 @@ title: Home
 
 
     <!-- Journal -->
-    <div class="tab-pane" id="services-journal">
+    <div class="tab-pane active" id="services-journal">
       {% assign journals = site.data.services.services | where: "journal", "y" %}
       {% for paper in journals %}
         <div class="paper">
@@ -263,7 +263,7 @@ title: Home
     </div>
     
     <!-- Conferences -->
-    <div class="tab-pane active" id="services-conferences">
+    <div class="tab-pane" id="services-conferences">
       {% assign conferences = site.data.services.services | where: "conference", "y" %}
       {% for paper in conferences %}
         <div class="paper">
