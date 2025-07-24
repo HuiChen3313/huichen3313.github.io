@@ -143,6 +143,13 @@ papers:
     selected: y
     Journals: y
 
+  - title: "WAVAE: A Weakly Augmented Variational Autoencoder for Time Series Anomaly Detection"
+    authors: "Zhangkai Wu, Qi Zhang, Junxian Zhou, <b>Hui Chen</b>, Yanfang Liu"
+    venue: "Information Fusion."
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S1566253525005354"
+    selected: 
+    Journals: y
+
   
 
     
