@@ -40,6 +40,10 @@ services:
     role: PC Member
     conference: y
 
+  - title: " The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026)"
+    role: PC Member
+    conference: y
+
   - title: "The 17th Asian Conference on Machine Learning (ACML 2025)"
     role: PC Member
     conference: y
