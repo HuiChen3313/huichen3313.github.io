@@ -150,8 +150,23 @@ papers:
     selected: 
     Journals: y
 
+  - title: "A Generative Random Modality Dropout Framework for Robust Multimodal Emotion Recognition"
+    authors: "Yang Zhang, <b>Hui Chen</b>, Imad Rida, Xianxun Zhu"
+    venue: "IEEE Intelligent Systems."
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11189302"
+    selected: 
+    Journals: y
+
+  - title: "SearchExpert: A GenAI-driven framework for reasoning-intensive multimedia information fusion through fine-tuning and reinforcement learning"
+    authors: "Jinzheng Li, Yiqing Shen, Wei Zhou, <b>Hui Chen<sup>*</sup></b>"
+    venue: "Information Fusion."
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11189302"
+    selected: y
+    Journals: y
+
   
 
     
+
 
 
