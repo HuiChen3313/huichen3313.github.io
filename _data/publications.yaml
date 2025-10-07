@@ -158,7 +158,7 @@ papers:
     Journals: y
 
   - title: "SearchExpert: A GenAI-driven framework for reasoning-intensive multimedia information fusion through fine-tuning and reinforcement learning"
-    authors: "Jinzheng Li, Yiqing Shen, Wei Zhou, <b>Hui Chen*</b>"
+    authors: "Jinzheng Li, Yiqing Shen, Wei Zhou, <b>Hui Chen<sup><span style='font-size:90%'>*</span></sup></b>"
     venue: "Information Fusion."
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11189302"
     selected: y
@@ -167,6 +167,7 @@ papers:
   
 
     
+
 
 
 
