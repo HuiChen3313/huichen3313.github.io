@@ -164,9 +164,18 @@ papers:
     selected: y
     Journals: y
 
+  - title: "RAFT: Robust Adversarial Fusion Transformer for multimodal sentiment analysis"
+    authors: "Rui Wang, Duyun Xu, Lucia Cascone, Yaoyang Wang, <b>Hui Chen</b>, Jianbo Zheng, Xianxun Zhu"
+    venue: "Array."
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S2590005625000724"
+    selected: 
+    Journals: y
+
+
   
 
     
+
 
 
 
