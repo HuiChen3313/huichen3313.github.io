@@ -4,6 +4,10 @@ services:
     role: Reviewer
     journal: y
 
+  - title: "IEEE Transactions on Neural Networks and Learning Systems"
+    role: Reviewer
+    journal: y
+
   - title: "IEEE Transactions on Cybernetics"
     role: Reviewer
     journal: y
