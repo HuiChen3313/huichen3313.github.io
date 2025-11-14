@@ -87,6 +87,21 @@ papers:
   #   venue: "Proceedings of ELM-2015 Volume 2 (2016): 423."
   #   paper_pdf: "https://link.springer.com/chapter/10.1007/978-3-319-28373-9_36"
 
+  
+  - title: "Federated Neural Nonparametric Point Processes"
+    authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
+    venue: "Artificial Intelligence, 2025"
+    paper_pdf: "https://arxiv.org/abs/2410.05637"
+    selected: y
+    Journals: y
+
+  - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
+    authors: "<b>Hui Chen</b>, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
+    venue: "IEEE Transactions on Neural Networks and Learning Systems, 2025."
+    paper_pdf: "https://doi.org/10.1109/TNNLS.2025.3562164"
+    selected: y
+    Journals: y
+
   - title: "Bayesian Federated Learning: A Survey"
     authors: "Longbing Cao, <b>Hui Chen</b>, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar"
     venue: "32nd International Joint Conference on Artificial Intelligence, IJCAI 2023."
@@ -105,20 +120,6 @@ papers:
     authors: "<b>Hui Chen</b>, Weide Li, Xuan Yang"
     venue: "Expert Systems with Applications, 2020."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S095741742030436X"
-    selected: y
-    Journals: y
-
-  - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
-    authors: "<b>Hui Chen</b>, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
-    venue: "IEEE Transactions on Neural Networks and Learning Systems, 2025."
-    paper_pdf: "https://doi.org/10.1109/TNNLS.2025.3562164"
-    selected: y
-    Journals: y
-
-  - title: "Federated Neural Nonparametric Point Processes"
-    authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
-    venue: "Artificial Intelligence, 2025"
-    paper_pdf: "https://arxiv.org/abs/2410.05637"
     selected: y
     Journals: y
 
@@ -175,6 +176,7 @@ papers:
   
 
     
+
 
 
 
