@@ -23,6 +23,13 @@
   <link rel="stylesheet" href={{ "/libs/external/skeleton/skeleton.css" | prepend: site.baseurl }}>
   <link rel="stylesheet" href={{ "/libs/custom/my_css.css" | prepend: site.baseurl }}>
 
+  <!-- Force entire site to use Times New Roman -->
+<style>
+  * {
+    font-family: "Times New Roman", Times, serif !important;
+  }
+</style>
+
   <!-- JQuery
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src={{ "/libs/external/jquery-3.1.1.min.js" | prepend: site.baseurl }}></script>
@@ -140,3 +147,4 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
 </body>
 </html>
+
