@@ -11,6 +11,10 @@ services:
   - title: "IEEE Transactions on Cybernetics"
     role: Reviewer
     journal: y
+
+  - title: "Expert Systems With Applications"
+    role: Reviewer
+    journal: y
     
   - title: "Machine Learning"
     role: Reviewer
