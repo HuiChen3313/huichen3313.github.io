@@ -1,7 +1,7 @@
 papers:
   
   - title: "FedKT: A Nature-Inspired Bayesian Federated Learning Framework for Privacy-Preserving and Lightweight Consumer Devices"
-    authors: "Ying Tian, <b>Hui Chen</b>, Xianxun Zhu, Xiaohan Yu"
+    authors: "Ying Tian, <b>Hui Chen*</b>, Xianxun Zhu, Xiaohan Yu"
     venue: "IEEE Transactions on Consumer Electronics, 2026"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11408884"
     selected: y
@@ -96,6 +96,7 @@ papers:
   
 
     
+
 
 
 
