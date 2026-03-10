@@ -4,7 +4,7 @@ papers:
     authors: "Ying Tian, <b>Hui Chen*</b>, Xianxun Zhu, Xiaohan Yu"
     venue: "IEEE Transactions on Consumer Electronics, 2026"
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11408884"
-    selected: y
+    selected: 
     Journals: y
    
   - title: "Federated Neural Nonparametric Point Processes"
@@ -96,6 +96,7 @@ papers:
   
 
     
+
 
 
 
