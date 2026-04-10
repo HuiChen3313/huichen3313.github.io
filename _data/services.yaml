@@ -1,11 +1,11 @@
 services:
-  # - title: "Journal of Imaging"
-  #   role: Guest Editor
-  #   journal: y
+  - title: "Journal of Imaging"
+    role: Guest Editor
+    journal: y
 
-  # - title: "Electronics"
-  #   role: Guest Editor
-  #   journal: y
+  - title: "Electronics"
+    role: Guest Editor
+    journal: y
     
   - title: "npj Digital Medicine"
     role: Reviewer
