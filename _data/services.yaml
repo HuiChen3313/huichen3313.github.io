@@ -7,35 +7,7 @@ services:
     role: Guest Editor
     journal: y
     
-  - title: "npj Digital Medicine"
-    role: Reviewer
-    journal: y
-
-  - title: "IEEE Transactions on Neural Networks and Learning Systems"
-    role: Reviewer
-    journal: y
-
-  - title: "IEEE Transactions on Cybernetics"
-    role: Reviewer
-    journal: y
-
-  - title: "Expert Systems With Applications"
-    role: Reviewer
-    journal: y
-    
-  - title: "Machine Learning"
-    role: Reviewer
-    journal: y
-
-  - title: "Transactions on Machine Learning Research"
-    role: Reviewer
-    journal: y
-
-  - title: "IEEE Journal of Biomedical and Health Informatics"
-    role: Reviewer
-    journal: y
-    
-  - title: "Data Mining and Knowledge Discovery"
+  - title: "TPAMI, AIJ, TNNLS, TCYB, TKDE, MLJ, KBS, ESWA, npj Digital Medicine, etc."
     role: Reviewer
     journal: y
 
