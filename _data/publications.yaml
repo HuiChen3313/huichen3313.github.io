@@ -1,12 +1,4 @@
 papers:
-  
-  # - title: "FedKT: A Nature-Inspired Bayesian Federated Learning Framework for Privacy-Preserving and Lightweight Consumer Devices"
-  #   authors: "Ying Tian, <b>Hui Chen*</b>, Xianxun Zhu, Xiaohan Yu"
-  #   venue: "IEEE Transactions on Consumer Electronics, 2026"
-  #   paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11408884"
-  #   selected: 
-  #   Journals: y
-   
   - title: "Federated Neural Nonparametric Point Processes"
     authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
     venue: "Artificial Intelligence, 2025"
@@ -14,13 +6,33 @@ papers:
     selected: y
     Journals: y
 
-
   - title: "FedSI: Federated Subnetwork Inference for Efficient Uncertainty Quantification"
     authors: "<b>Hui Chen</b>, Hengyu Liu, Zhangkai Wu, Xuhui Fan, Longbing Cao"
     venue: "IEEE Transactions on Neural Networks and Learning Systems, 2025."
     paper_pdf: "https://doi.org/10.1109/TNNLS.2025.3562164"
     selected: y
     Journals: y
+    
+  - title: "EUPA: Embodied Uncertainty-Aware Multimodal Affect Perception for Consumer Electronic Systems"
+    authors: "Xianxun Zhu, Rui Wang, Lucia Cascone, Xiaosong E, <b>Hui Chen*</b>"
+    venue: "IEEE Transactions on Consumer Electronics, 2026"
+    paper_pdf: "https://ieeexplore.ieee.org/document/11458769"
+    selected: y
+    Journals: y
+
+  - title: "FedKT: A Nature-Inspired Bayesian Federated Learning Framework for Privacy-Preserving and Lightweight Consumer Devices"
+    authors: "Ying Tian, <b>Hui Chen*</b>, Xianxun Zhu, Xiaohan Yu"
+    venue: "IEEE Transactions on Consumer Electronics, 2026"
+    paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11408884"
+    selected: y
+    Journals: y
+
+  - title: "FedUAF: Uncertainty-Aware Fusion with Reliability-Guided Aggregation for Multimodal Federated Sentiment Analysis"
+    authors: "Xianxun Zhu, Zezhong Sun, Imad Rida, Erik Cambria, Junqi Su, Rui Wang, <b>Hui Chen*</b>"
+    venue: "IEEE International Conference on Multimedia and Expo, ICME 2026."
+    paper_pdf: ""
+    selected: y
+    Conferences: y
 
   - title: "Bayesian Federated Learning: A Survey"
     authors: "Longbing Cao, <b>Hui Chen</b>, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar"
@@ -33,35 +45,35 @@ papers:
     authors: "Zhangkai Wu, Xuhui Fan, Jin Li, Zhilin Zhao, <b>Hui Chen</b>, Longbing Cao"
     venue: "31st SIGKDD Conference on Knowledge Discovery and Data Mining, KDD 2025."
     paper_pdf: "https://dl.acm.org/doi/10.1145/3711896.3737125"
-    selected: y
+    selected: 
     Conferences: y
 
   - title: "A whale optimization algorithm with chaos mechanism based on quasi-opposition for global optimization problems"
     authors: "<b>Hui Chen</b>, Weide Li, Xuan Yang"
     venue: "Expert Systems with Applications, 2020."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S095741742030436X"
-    selected: y
+    selected: 
     Journals: y
 
   - title: "Marked Temporal Bayesian Flow Point Processes"
     authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Longbing Cao"
     venue: "Submitted to IEEE Transactions on Cybernetics."
     paper_pdf: "https://arxiv.org/abs/2410.19512"
-    selected: y
+    selected: 
     Journals: y
 
   - title: "Bayesian personalized federated learning with shared and personalized uncertainty representations"
     authors: "<b>Hui Chen</b>, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
     venue: "Submitted to Machine Learning."
     paper_pdf: "https://arxiv.org/abs/2309.15499"
-    selected: y
+    selected: 
     Journals: y
 
   - title: "A client–server based recognition system: Non-contact single/multiple emotional and behavioral state assessment methods"
     authors: "Xianxun Zhu, Zhaozhao Liu, Erik Cambria, Xiaohan Yu, Xuhui Fan, <b>Hui Chen</b>, Rui Wang"
     venue: "Computer Methods and Programs in Biomedicine."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0169260724005571"
-    selected: y
+    selected: 
     Journals: y
 
   - title: "WAVAE: A Weakly Augmented Variational Autoencoder for Time Series Anomaly Detection"
@@ -85,13 +97,19 @@ papers:
     selected: y
     Journals: y
 
-  - title: "RAFT: Robust Adversarial Fusion Transformer for multimodal sentiment analysis"
+  - title: "RAFT: Robust Adversarial Fusion Transformer for Multimodal Sentiment Analysis"
     authors: "Rui Wang, Duyun Xu, Lucia Cascone, Yaoyang Wang, <b>Hui Chen</b>, Jianbo Zheng, Xianxun Zhu"
     venue: "Array."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S2590005625000724"
     selected: 
     Journals: y
 
+  - title: "FigBO: A Generalized Acquisition Function Framework with Look-Ahead Capability for Bayesian Optimization"
+    authors: "<b>Hui Chen</b>, Xuhui Fan, Zhangkai Wu, Longbing Cao"
+    venue: "Machine Learning."
+    paper_pdf: ""
+    selected: y
+    Journals: y
 
   
 
