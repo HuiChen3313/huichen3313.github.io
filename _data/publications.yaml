@@ -2,7 +2,7 @@ papers:
   
   - title: "DMSAA-SLAM: RGB-D SLAM for Dynamic Scenes via Diffusion Self-Attention"
     authors: "Lei Xia, Xiaomei Li, Ziyang Wang, <b>Hui Chen</b>, Xianxun Zhu, Ling Fan"
-    venue: "Pattern Recognition."
+    venue: "Pattern Recognition, 2026."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S003132032600542X"
     selected: 
     Journals: y
