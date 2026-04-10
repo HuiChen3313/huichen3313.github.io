@@ -79,42 +79,42 @@ papers:
 
   - title: "A client–server based recognition system: Non-contact single/multiple emotional and behavioral state assessment methods"
     authors: "Xianxun Zhu, Zhaozhao Liu, Erik Cambria, Xiaohan Yu, Xuhui Fan, <b>Hui Chen</b>, Rui Wang"
-    venue: "Computer Methods and Programs in Biomedicine."
+    venue: "Computer Methods and Programs in Biomedicine, 2025."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0169260724005571"
     selected: 
     Journals: y
 
   - title: "WAVAE: A Weakly Augmented Variational Autoencoder for Time Series Anomaly Detection"
     authors: "Zhangkai Wu, Qi Zhang, Junxian Zhou, <b>Hui Chen</b>, Yanfang Liu"
-    venue: "Information Fusion."
+    venue: "Information Fusion, 2025."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S1566253525005354"
     selected: 
     Journals: y
 
   - title: "A Generative Random Modality Dropout Framework for Robust Multimodal Emotion Recognition"
     authors: "Yang Zhang, <b>Hui Chen</b>, Imad Rida, Xianxun Zhu"
-    venue: "IEEE Intelligent Systems."
+    venue: "IEEE Intelligent Systems, 2025."
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11189302"
     selected: 
     Journals: y
 
   - title: "SearchExpert: A GenAI-driven framework for reasoning-intensive multimedia information fusion through fine-tuning and reinforcement learning"
     authors: "Jinzheng Li, Yiqing Shen, Wei Zhou, <b>Hui Chen*</b>"
-    venue: "Information Fusion."
+    venue: "Information Fusion, 2025."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S1566253525007377"
     selected: y
     Journals: y
 
   - title: "RAFT: Robust Adversarial Fusion Transformer for Multimodal Sentiment Analysis"
     authors: "Rui Wang, Duyun Xu, Lucia Cascone, Yaoyang Wang, <b>Hui Chen</b>, Jianbo Zheng, Xianxun Zhu"
-    venue: "Array."
+    venue: "Array, 2025."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S2590005625000724"
     selected: 
     Journals: y
 
   - title: "FigBO: A Generalized Acquisition Function Framework with Look-Ahead Capability for Bayesian Optimization"
     authors: "<b>Hui Chen</b>, Xuhui Fan, Zhangkai Wu, Longbing Cao"
-    venue: "Machine Learning."
+    venue: "Machine Learning, 2026."
     paper_pdf: ""
     selected: y
     Journals: y
