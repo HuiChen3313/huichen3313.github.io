@@ -15,6 +15,14 @@ services:
     role: Session Chair
     conference: y
 
+  - title: "IEEE International Conference on Behavioural and Social Computing, 2025"
+    role: Session Chair
+    conference: y
+
+  - title: "IEEE International Conference on Image Processing, 2026"
+    role: Session Organizer
+    conference: y
+
   - title: "NeurIPS, ICLR, ICML, AAAI, IJCAI, KDD, UAI, AISTATS, ACML, ECMLPKDD, etc."
     role: PC Member
     conference: y
