@@ -11,7 +11,7 @@ services:
     role: Reviewer
     journal: y
 
-  - title: "The Pacific-Asia Conference on Knowledge Discovery and Data Mining （PAKDD 2025）"
+  - title: "The Pacific-Asia Conference on Knowledge Discovery and Data Mining（PAKDD 2025）"
     role: Session Chair
     conference: y
 
