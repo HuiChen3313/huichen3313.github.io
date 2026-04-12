@@ -12,6 +12,13 @@ papers:
     paper_pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11408884"
     selected: y
     Journals: y
+
+  - title: "FigBO: A Generalized Acquisition Function Framework with Look-Ahead Capability for Bayesian Optimization"
+    authors: "<b>Hui Chen</b>, Xuhui Fan, Zhangkai Wu, Longbing Cao"
+    venue: "Machine Learning, 2026."
+    paper_pdf: ""
+    selected: y
+    Journals: y
     
   - title: "Injecting Image Text Structure and Edge Priors into Segment Anything for Scene Text Segmentation"
     authors: "Qian Shao, Libo Weng, Yanjing Lei, Yuanming Zhang, Xianxun Zhu, <b>Hui Chen</b>, Fei Gao"
@@ -54,21 +61,6 @@ papers:
     paper_pdf: "https://dl.acm.org/doi/10.1145/3711896.3737125"
     selected: 
     Conferences: y
-
-  - title: "Bayesian Federated Learning: A Survey"
-    authors: "Longbing Cao, <b>Hui Chen</b>, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar"
-    venue: "International Joint Conference on Artificial Intelligence, IJCAI 2023."
-    paper_pdf: "https://www.ijcai.org/proceedings/2023/0851.pdf"
-    selected: y
-    Conferences: y
-
-
-  - title: "A whale optimization algorithm with chaos mechanism based on quasi-opposition for global optimization problems"
-    authors: "<b>Hui Chen</b>, Weide Li, Xuan Yang"
-    venue: "Expert Systems with Applications, 2020."
-    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S095741742030436X"
-    selected: 
-    Journals: y
 
   - title: "Marked Temporal Bayesian Flow Point Processes"
     authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Longbing Cao"
@@ -119,11 +111,18 @@ papers:
     selected: 
     Journals: y
 
-  - title: "FigBO: A Generalized Acquisition Function Framework with Look-Ahead Capability for Bayesian Optimization"
-    authors: "<b>Hui Chen</b>, Xuhui Fan, Zhangkai Wu, Longbing Cao"
-    venue: "Machine Learning, 2026."
-    paper_pdf: ""
+  - title: "Bayesian Federated Learning: A Survey"
+    authors: "Longbing Cao, <b>Hui Chen</b>, Xuhui Fan, Joao Gama, Yew-Soon Ong, Vipin Kumar"
+    venue: "International Joint Conference on Artificial Intelligence, IJCAI 2023."
+    paper_pdf: "https://www.ijcai.org/proceedings/2023/0851.pdf"
     selected: y
+    Conferences: y
+    
+  - title: "A whale optimization algorithm with chaos mechanism based on quasi-opposition for global optimization problems"
+    authors: "<b>Hui Chen</b>, Weide Li, Xuan Yang"
+    venue: "Expert Systems with Applications, 2020."
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S095741742030436X"
+    selected: 
     Journals: y
 
   
