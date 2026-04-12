@@ -62,12 +62,12 @@ papers:
     selected: 
     Conferences: y
 
-  - title: "Marked Temporal Bayesian Flow Point Processes"
-    authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Longbing Cao"
-    venue: "Submitted to IEEE Transactions on Cybernetics."
-    paper_pdf: "https://arxiv.org/abs/2410.19512"
-    selected: 
-    Journals: y
+  # - title: "Marked Temporal Bayesian Flow Point Processes"
+  #   authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Longbing Cao"
+  #   venue: "Submitted to IEEE Transactions on Cybernetics."
+  #   paper_pdf: "https://arxiv.org/abs/2410.19512"
+  #   selected: 
+  #   Journals: y
 
   - title: "A client–server based recognition system: Non-contact single/multiple emotional and behavioral state assessment methods"
     authors: "Xianxun Zhu, Zhaozhao Liu, Erik Cambria, Xiaohan Yu, Xuhui Fan, <b>Hui Chen</b>, Rui Wang"
