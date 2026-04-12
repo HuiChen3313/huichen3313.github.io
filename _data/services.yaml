@@ -7,7 +7,7 @@ services:
     role: Guest Editor
     journal: y
     
-  - title: "TPAMI, AIJ, TNNLS, TCYB, TKDE, MLJ, KBS, ESWA, npj Digital Medicine, etc."
+  - title: "TPAMI, AIJ, TNNLS, TCYB, TKDE, MLJ, TMLR, npj Digital Medicine, etc."
     role: Reviewer
     journal: y
 
