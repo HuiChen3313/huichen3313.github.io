@@ -69,13 +69,6 @@ papers:
     selected: 
     Journals: y
 
-  - title: "Bayesian personalized federated learning with shared and personalized uncertainty representations"
-    authors: "<b>Hui Chen</b>, Hengyu Liu, Longbing Cao, Tiancheng Zhang"
-    venue: "Submitted to Machine Learning."
-    paper_pdf: "https://arxiv.org/abs/2309.15499"
-    selected: 
-    Journals: y
-
   - title: "A client–server based recognition system: Non-contact single/multiple emotional and behavioral state assessment methods"
     authors: "Xianxun Zhu, Zhaozhao Liu, Erik Cambria, Xiaohan Yu, Xuhui Fan, <b>Hui Chen</b>, Rui Wang"
     venue: "Computer Methods and Programs in Biomedicine, 2025."
