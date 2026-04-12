@@ -26,6 +26,13 @@ papers:
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S003132032600542X"
     selected: 
     Journals: y
+
+  - title: "FedUAF: Uncertainty-Aware Fusion with Reliability-Guided Aggregation for Multimodal Federated Sentiment Analysis"
+    authors: "Xianxun Zhu, Zezhong Sun, Imad Rida, Erik Cambria, Junqi Su, Rui Wang, <b>Hui Chen*</b>"
+    venue: "IEEE International Conference on Multimedia and Expo, ICME 2026."
+    paper_pdf: ""
+    selected: y
+    Conferences: y
   
   - title: "Federated Neural Nonparametric Point Processes"
     authors: "<b>Hui Chen</b>, Xuhui Fan, Hengyu Liu, Yaqiong Li, Zhilin Zhao, Feng Zhou, Christopher John Quinn, Longbing Cao"
@@ -40,13 +47,6 @@ papers:
     paper_pdf: "https://doi.org/10.1109/TNNLS.2025.3562164"
     selected: y
     Journals: y
-
-  - title: "FedUAF: Uncertainty-Aware Fusion with Reliability-Guided Aggregation for Multimodal Federated Sentiment Analysis"
-    authors: "Xianxun Zhu, Zezhong Sun, Imad Rida, Erik Cambria, Junqi Su, Rui Wang, <b>Hui Chen*</b>"
-    venue: "IEEE International Conference on Multimedia and Expo, ICME 2026."
-    paper_pdf: ""
-    selected: y
-    Conferences: y
 
   - title: "SepDiff: Self-Encoding Parameter Diffusion for Learning Latent Semantics"
     authors: "Zhangkai Wu, Xuhui Fan, Jin Li, Zhilin Zhao, <b>Hui Chen</b>, Longbing Cao"
