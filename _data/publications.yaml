@@ -1,5 +1,11 @@
 papers:
-  
+  - title: "Injecting Image Text Structure and Edge Priors into Segment Anything for Scene Text Segmentation"
+    authors: "Qian Shao, Libo Weng, Yanjing Lei, Yuanming Zhang, Xianxun Zhu, <b>Hui Chen</b>, Fei Gao"
+    venue: "Image and Vision Computing, 2026."
+    paper_pdf: ""
+    selected: 
+    Journals: y
+    
   - title: "DMSAA-SLAM: RGB-D SLAM for Dynamic Scenes via Diffusion Self-Attention"
     authors: "Lei Xia, Xiaomei Li, Ziyang Wang, <b>Hui Chen</b>, Xianxun Zhu, Ling Fan"
     venue: "Pattern Recognition, 2026."
