@@ -1,4 +1,11 @@
 papers:
+  - title: "Text-Centric Dual-Layer Attention for Multimodal Emotion Analysis with Missing Modalities"
+    authors: "Xianxun Zhu, Imad Rida, Erik Cambria, Rui Wang, <b>Hui Chen*</b>"
+    venue: "IEEE International Conference on Image Processing, 2026"
+    paper_pdf: ""
+    selected: y
+    Conferences: y 
+    
   - title: "EUPA: Embodied Uncertainty-Aware Multimodal Affect Perception for Consumer Electronic Systems"
     authors: "Xianxun Zhu, Rui Wang, Lucia Cascone, Xiaosong E, <b>Hui Chen*</b>"
     venue: "IEEE Transactions on Consumer Electronics, 2026"
