@@ -23,7 +23,7 @@ papers:
   - title: "FigBO: A Generalized Acquisition Function Framework with Look-Ahead Capability for Bayesian Optimization"
     authors: "<b>Hui Chen</b>, Xuhui Fan, Zhangkai Wu, Longbing Cao"
     venue: "Machine Learning, 2026."
-    paper_pdf: ""
+    paper_pdf: "https://link.springer.com/article/10.1007/s10994-026-07039-5"
     selected: y
     Journals: y
     
