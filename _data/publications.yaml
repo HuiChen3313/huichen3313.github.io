@@ -2,7 +2,7 @@ papers:
 
   - title: "Text-Anchored Dual Contrastive Alignment for Multimodal Sentiment Analysis with Temporal Misalignment"
     authors: "Xianxun Zhu, Imad Rida, José Santamaría, Rui Wang, <b>Hui Chen*</b>"
-    venue: "IEEE Intelligent System, 2026"
+    venue: "IEEE Intelligent Systems, 2026"
     paper_pdf: "https://sentic.net/tcsea.pdf"
     selected:
     Journals: y 
