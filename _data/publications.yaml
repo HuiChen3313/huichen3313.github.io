@@ -1,5 +1,12 @@
 papers:
 
+  - title: "FedBayesMamba: Uncertainty-aware federated learning for multimodal and audio-visual sequential modeling with selective state space models"
+    authors: "Xianxun Zhu, E Xiaosong, Michele Nappi, Imad Rida, <b>Hui Chen*</b>"
+    venue: "Pattern Recognition, 2026"
+    paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0031320326012057"
+    selected:
+    Journals: y 
+
   - title: "Text-Anchored Dual Contrastive Alignment for Multimodal Sentiment Analysis with Temporal Misalignment"
     authors: "Xianxun Zhu, Imad Rida, José Santamaría, Rui Wang, <b>Hui Chen*</b>"
     venue: "IEEE Intelligent Systems, 2026"
