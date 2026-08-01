@@ -4,7 +4,7 @@ papers:
     authors: "Xianxun Zhu, E Xiaosong, Michele Nappi, Imad Rida, <b>Hui Chen*</b>"
     venue: "Pattern Recognition, 2026"
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0031320326012057"
-    selected:
+    selected: y
     Journals: y 
 
   - title: "Uncertainty-Aware Multimodal Affective Data Fusion for Personalized Mental Health Dialogue"
@@ -32,7 +32,7 @@ papers:
     authors: "Xianxun Zhu, Rui Wang, Lucia Cascone, Xiaosong E, <b>Hui Chen*</b>"
     venue: "IEEE Transactions on Consumer Electronics, 2026"
     paper_pdf: "https://ieeexplore.ieee.org/document/11458769"
-    selected: y
+    selected: 
     Journals: y
 
   - title: "FedKT: A Nature-Inspired Bayesian Federated Learning Framework for Privacy-Preserving and Lightweight Consumer Devices"
