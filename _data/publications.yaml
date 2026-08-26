@@ -1,6 +1,6 @@
 papers:
 
-  - title: "FedBayesMamba: Uncertainty-aware federated learning for multimodal and audio-visual sequential modeling with selective state space models"
+  - title: "FedBayesMamba: Uncertainty-aware Federated Learning for Multimodal and Audio-visual Sequential Modeling with Selective State Space Models"
     authors: "Xianxun Zhu, E Xiaosong, Michele Nappi, Imad Rida, <b>Hui Chen*</b>"
     venue: "Pattern Recognition, 2026"
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0031320326012057"
@@ -98,7 +98,7 @@ papers:
   #   selected: 
   #   Journals: y
 
-  - title: "A client–server based recognition system: Non-contact single/multiple emotional and behavioral state assessment methods"
+  - title: "A Client–server Based Recognition System: Non-contact Single/multiple Emotional and Behavioral State Assessment Methods"
     authors: "Xianxun Zhu, Zhaozhao Liu, Erik Cambria, Xiaohan Yu, Xuhui Fan, <b>Hui Chen</b>, Rui Wang"
     venue: "Computer Methods and Programs in Biomedicine, 2025."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S0169260724005571"
@@ -140,7 +140,7 @@ papers:
     selected: y
     Conferences: y
     
-  - title: "A whale optimization algorithm with chaos mechanism based on quasi-opposition for global optimization problems"
+  - title: "A Whale Optimization Algorithm with Chaos Mechanism Based on Quasi-opposition for Global Optimization Problems"
     authors: "<b>Hui Chen</b>, Weide Li, Xuan Yang"
     venue: "Expert Systems with Applications, 2020."
     paper_pdf: "https://www.sciencedirect.com/science/article/pii/S095741742030436X"
