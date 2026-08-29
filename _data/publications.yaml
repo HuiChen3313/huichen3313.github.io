@@ -1,5 +1,13 @@
 papers:
 
+  - title: "MENAP: multimodal efficiency-constrained news-augmented asset pricing via cost-aware preference optimization"
+    authors: "Yukai Su, <b>Hui Chen*</b>, Lailong Luo"
+    venue: "Complex & Intelligent Systems, 2026"
+    paper_pdf: "https://link.springer.com/article/10.1007/s40747-026-02433-x"
+    selected: 
+    Journals: y 
+
+
   - title: "FedBayesMamba: Uncertainty-aware Federated Learning for Multimodal and Audio-visual Sequential Modeling with Selective State Space Models"
     authors: "Xianxun Zhu, E Xiaosong, Michele Nappi, Imad Rida, <b>Hui Chen*</b>"
     venue: "Pattern Recognition, 2026"
