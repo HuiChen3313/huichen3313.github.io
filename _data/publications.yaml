@@ -1,5 +1,12 @@
 papers:
 
+  - title: "Diffusion-Augmented Adaptive Image–Text Contrastive Learning for Unsupervised Multimodal Image Clustering"
+    authors: "Zhonghua Dang, Hui Chen, Xianxun Zhu"
+    venue: "Image and Vision Computing, 2026"
+    paper_pdf: ""
+    selected: 
+    Journals: y 
+
   - title: "MENAP: Multimodal Efficiency-constrained News-augmented Asset Pricing via Cost-aware Preference Optimization"
     authors: "Yukai Su, <b>Hui Chen*</b>, Lailong Luo"
     venue: "Complex & Intelligent Systems, 2026"
