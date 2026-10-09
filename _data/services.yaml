@@ -1,4 +1,8 @@
 services:
+  - title: "Trustworthy Multimodal Intelligence: Robust, Adaptive, and Uncertainty-Aware Learning — Frontiers in Artificial Intelligence / Frontiers in Big Data"
+  role: Guest Editor
+  journal: y
+
   - title: "Multimodal Learning with Uncertainty and Reliability: Methods and Applications — CMC-Computers Materials & Continua"
     role: Guest Editor
     journal: y
