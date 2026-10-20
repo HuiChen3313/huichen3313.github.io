@@ -1,7 +1,7 @@
 papers:
 
   - title: "Diffusion-Augmented Adaptive Image–Text Contrastive Learning for Unsupervised Multimodal Image Clustering"
-    authors: "Zhonghua Dang, Hui Chen, Xianxun Zhu"
+    authors: "Zhonghua Dang, <b>Hui Chen</b>, Xianxun Zhu"
     venue: "Image and Vision Computing, 2026"
     paper_pdf: ""
     selected: 
